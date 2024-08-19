@@ -1,1 +1,2 @@
-- **Section 3** Next.js essentials (app router)  
+- **Section 3** Next.js Essentials (app router)  
+- **Section 4** Routing and Page Rendering 
