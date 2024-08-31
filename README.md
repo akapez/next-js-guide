@@ -3,3 +3,4 @@
 - **Section 5** Data Fetching
 - **Section 6** Mutating Data
 - **Section 7** Understanding and Configuring Caching
+- **Section 8** App Optimizations
