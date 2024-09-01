@@ -4,3 +4,4 @@
 - **Section 6** Mutating Data
 - **Section 7** Understanding and Configuring Caching
 - **Section 8** App Optimizations
+- **Section 9** User Authentication
